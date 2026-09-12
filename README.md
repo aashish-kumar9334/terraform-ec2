@@ -179,4 +179,4 @@ BTech CSE – Cloud Technology & Information Security
 
 ### Skills
 
-`AWS` `Terraform` `Docker` `Linux` `Python` `Jenkins` `Ansible` `Git`
+`AWS` `Terraform` `Linux` `Github`
